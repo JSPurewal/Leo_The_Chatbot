@@ -3,6 +3,7 @@
 
 ## Project Overview
 • Created a chat bot in python that can have basic conversations with the user.
+
 • It is a retrieval based chatbot that uses predefined input patterns and responses in the json.
 
 ## Resources Used
@@ -16,6 +17,7 @@
 ## Model Building and Evaluation
 **Metric: F1-Score**<br/>
 • A Deep Neural Network is made having 3 layers.
+
 • Trained the model for 200 epochs to get the desired accuracy of >0.95
 
 ## Model Deployment
