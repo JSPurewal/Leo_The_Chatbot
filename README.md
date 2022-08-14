@@ -21,4 +21,6 @@
 ## Model Deployment
 ![Prediction](readme-resources/s1.png)
 ![Prediction](readme-resources/s2.png)
+
+
 • Repository Link: [Github Link](https://github.com/JSPurewal/Leo_The_Chatbot)<br />
