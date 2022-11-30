@@ -1,5 +1,4 @@
 # Leo_The_Chatbot
-# Spam SMS Detection Project
 
 ## Project Overview
 • Created a chat bot in python that can have basic conversations with the user.
